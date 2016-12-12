@@ -1,0 +1,11 @@
+fixtures/lipsum25.txt
+Lines:				49
+Words:				2498
+Most common word:	a
+Least common word:	cras
+Stars/ends with D:	0
+Stars with A:		261
+Numeric words:		0
+Alphanumeric words:	2498
+
+Link to git repository:
